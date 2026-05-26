@@ -3,7 +3,7 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'House Celestre',
-  description: 'A new kind of technology institution, built for the public good.',
+  description: '',
 }
 
 export default function RootLayout({
